@@ -1,2 +1,2 @@
 # supreme-crm
-A simple, no dependecies php crm solution
+A simple, no dependecies crm solution
